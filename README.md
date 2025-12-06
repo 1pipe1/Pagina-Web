@@ -1,6 +1,6 @@
 **Gestion logistica**
-##Lograr llevar una pagina donde la persona se sienta seguro de sus pedidos logisticos
-##Tecnologias usadas:SCSS
+## Lograr llevar una pagina donde la persona se sienta seguro de sus pedidos logisticos
+## Tecnologias usadas:SCSS
 33.6%
 
 CSS
@@ -14,5 +14,5 @@ JavaScript
  
 PHP
 0.1%
-##Instrucciones de instalacion o visualizacion:
-##Autor: Felipe Beltran
+## Instrucciones de instalacion o visualizacion:
+## Autor: Felipe Beltran
