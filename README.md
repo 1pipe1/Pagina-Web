@@ -1,4 +1,4 @@
-# **Gestion logistica**
+### **Gestion logistica**
 ## Lograr llevar una pagina donde la persona se sienta seguro de sus pedidos logisticos
 ### Tecnologias usadas:
 * SCSS
