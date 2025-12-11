@@ -1,5 +1,5 @@
 # **Gestion logistica**
-## Lograr llevar una pagina donde la persona se sienta seguro de sus pedidos logisticos
+### Lograr llevar una pagina donde la persona se sienta seguro de sus pedidos logisticos
 ### Tecnologias usadas:
 * SCSS
 33.6% 
