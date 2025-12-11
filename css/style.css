@@ -6485,7 +6485,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ff4800 !important;
+  background-color: #000 !important;
 }
 
 a.bg-primary:hover,
@@ -9728,7 +9728,7 @@ a.text-light:focus {
 }
 
 .text-dark {
-  color: #1f1f2e !important;
+  color: #35354b !important;
 }
 
 a.text-dark:hover,
